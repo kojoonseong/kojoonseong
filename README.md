@@ -1,4 +1,6 @@
-# 고준성의 포트폴리오
+<div align="center">
+<h1>고준성의 포트폴리오</h1>
+</div>
 
 <div align="center">
 저는 게임 개발에 관심이 많은 고준성이라고 합니다. <br>
@@ -8,14 +10,23 @@
 <br>
 <br>
 
+<div align="center">
+
 |제목|설명|
 |:---:|:---:|
 | 희망 분야 | 게임 / 앱 개발 |
 | 보유 기술 | Java, JavaFX, Kotlin, SQL, JSP, 웹디자인(HTML, CSS) |
 | 꿈 | 월 400이상의 가치가 있는 사람되기 |
 | 좌우명 | 하고 싶은 것을 하되, 주변 일을 신경쓰자 |
+  
+</div>
+<br>
+<div align="center">
+  
+## 활동 내역
+  
+</div>
 
-> ### 활동 내역
 >
 > * 고1
 >     - 성일정보고등학교 입학
@@ -27,7 +38,10 @@
 >     - 1년 동안 예비 도제 방과후 수업에 참여함 (Java, Kotlin, Android Studio)
 >     - 기본적인 학교 수업에서 Java, 웹디자인(HTML, CSS), JSP를 배우며 Apache, Eclipse를 이용한 웹 개발을 함
 
-### 나의 프로젝트
+<br>
 
-<!-- *로 앞머리 지정할것 --!>
+<div align="center">
+  
+## 나의 프로젝트
 
+</div>
