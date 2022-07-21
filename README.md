@@ -1,16 +1,13 @@
-### Hi there 👋
+### 고준성의 포트폴리오
 
-<!--
-**kojoonseong/kojoonseong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|제목|설명|
+|:---:|:---:|
+| 나의 소개 | 저는 게임 개발에 관심이 많은 고준성이라고 합니다.
+          게임개발에 관심이 많은 만큼 게임을 좋아하고 J-POP의 음악을 듣는 것이 취미입니다.
+          게임 내 명령어로 여러가지를 만들며 게임만들기에 흥미를 가지게 된 새싹입니다. |
+| 희망 분야 | 게임 / 앱 개발 / |
+| 보유 기술 | Java, JavaFX, Kotlin, SQL, JSP, 웹디자인(HTML, CSS) |
+| 나의 활동 |  |
+| 꿈 | 월 400의 가치가 있는 사람되기 |
+| 좌우명 | 하고 싶은 것을 하되, 주변 일을 신경쓰자 |
+| 나의 프로젝트 | |
