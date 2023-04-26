@@ -1,7 +1,6 @@
 <div align="center">
-<h1>고준성의 포트폴리오</h1>
-</div>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,3&height=300&section=header&text=Kojoonseong&fontSize=90" />
+ </div>
 <div align="center">
 저는 게임 개발에 관심이 많은 고준성이라고 합니다. <br>
 게임개발에 관심이 많은 만큼 게임을 좋아하고 J-POP의 음악을 듣는 것이 취미입니다. <br>
@@ -14,13 +13,20 @@
 
 |제목|설명|
 |:---:|:---:|
-| 희망 분야 | 게임 / 앱 개발 |
-| 보유 기술 | Java, JavaFX, Kotlin, SQL, JSP, 웹디자인(HTML, CSS) |
+| 희망 분야 | - |
 | 꿈 | 남녀노소 누구나 재밌게 할 수 있는 리듬게임 만들기 |
 | 좌우명 | 주변을 신경쓰며 최선을 다하자 |
-  
 </div>
 <br>
+<div align="center">
+  
+## 사용하는 언어
+  
+</div>
+<div align="center">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus.svg&logoColor=black">
+</div>
+
 <div align="center">
   
 ## 활동 내역
