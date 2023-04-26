@@ -8,19 +8,19 @@
 저는 UI 및 알고리즘 개발자가 되고 싶은 고준성입니다. <br>
 현재 성일정보고등학교 3학년 재학중입니다. <br>
 저는 주로 Java, C++ 을 사용합니다. <br>
+  <br>
+  <br>
 
+## 🔰 Baekjoon Tier 🔰
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=milu0918)](https://solved.ac/milu0918/)
+  
+  <br>
+  <br>
 
-</div>
-<br>
-<br>
-
-<div align="center">
   
 ## 🛠️ Using Language & Tools 🛠️
   
-</div>
-<div align="center">
-
 **Language**
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -37,14 +37,14 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20Ide-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white)
 
-</div>
-
-<div align="center">
+  <br>
+  <br>
   
 ## ⏳ Activity History ⏳
-  
-</div>
 
+  </div>
+  <br>
+  
 > * **고1**
 >     - 성일정보고등학교 입학
 >     - IT네트워크동아리에 들어감
@@ -60,7 +60,6 @@
 >     - 성일정보고등학교 도제반
 >     - Sungil SoftWare Study(SSS)에 들어감
 >     - C++을 배움
-
 
 <br>
 
