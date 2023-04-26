@@ -55,6 +55,7 @@
 >     - 1년 동안 예비 도제 방과후 수업에 참여함 (Java, Kotlin, Android Studio)
 >     - 기본적인 학교 수업에서 Java, 웹디자인(HTML, CSS), JSP를 배우며 Apache, Eclipse를 이용한 웹 개발을 함
 >     - 프로그래밍경진대회 장려상 수상
+>     - 정보처리산업기사 취득
 > * **고3**
 >     - 성일정보고등학교 도제반
 >     - Sungil SoftWare Study(SSS)에 들어감
